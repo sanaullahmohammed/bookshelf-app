@@ -1,2 +1,5 @@
 # bookshelf-app
-Bookshelf app build using react, express and sqlite db
+
+Bookshelf app built using react, express and sqlite db
+
+ <!-- https://blog.alexdevero.com/react-express-sqlite-app/  -->
